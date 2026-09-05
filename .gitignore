@@ -1,0 +1,19 @@
+# Môi trường ảo (Virtual Environment)
+venv/
+env/
+.venv/
+
+# Môi trường biến (Bảo mật)
+.env
+
+# Thư mục chứa file Video
+
+# File rác của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File cấu hình của Editor (VSCode, PyCharm)
+.vscode/
+.idea/
+.DS_Store
