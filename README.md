@@ -44,7 +44,7 @@ Máy chủ độc lập (Worker) chịu trách nhiệm thực thi các tác vụ
  
 ---
  
-*Dự án thuộc Hệ sinh thái AI Video Generator.*
+*Dự án thuộc Hệ sinh thái AI Video Generator:*
 
 https://github.com/hphuc193/video-ai-backend
 
